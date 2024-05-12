@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate cyber security with a keen intere
 - 👯 I’m looking to collaborate On any projects
 - 💬 Ask me about  computer networks.
 - 📫 How to reach me: 7003529970 , personal number dont share ✌️
-- 😄 Pronouns: call me he or him
-- ⚡ Fun fact: 
+- 😄 Pronouns:  he or him
+- ⚡ Fun fact: I have a knack for picking up new skills quickly, just like a sponge absorbing water!
 
 
 ## Projects
