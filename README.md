@@ -1,4 +1,4 @@
-![header](./images/git2.png)
+![header](./images/20240214030710_IMG_1787_11zon.jpg)
 
 # Hi there, I'm bikram dey! 👋
 
