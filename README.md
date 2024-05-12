@@ -37,7 +37,7 @@ Here are some highlighted projects:
 
 Check out what I've been up to recently:
 
-[Include recent GitHub activity. Example: ![Modhack's GitHub stats](https://github-readme-stats.vercel.app/api?username=modhack2003&show_icons=true&theme=radical)]
+![Modhack's GitHub stats](https://github-readme-stats.vercel.app/api?username=modhack2003&show_icons=true&theme=radical)
 
 
 ## Let's Connect and Collaborate!
