@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm bikram dey! 👋
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession] with a keen interest in [Your Interests]. Here you'll find a variety of projects and contributions related to my areas of expertise and personal interests.
+Welcome to my GitHub profile! I'm a passionate cyber security with a keen interest in programing . Here you'll find a variety of projects and contributions related to my areas of expertise and personal interests.
 
 ## About Me
 
-- 🔭 I’m currently working on [Current Project/Job]
-- 🌱 I’m currently learning [Technologies/Topics]
-- 👯 I’m looking to collaborate on [Project/Idea]
-- 💬 Ask me about [Specific Topic/Interest]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Fun Fact About Yourself]
+- 🔭 I’m currently a students but finding part time  job also.
+- 🌱 I’m currently learning angular js , CEH.
+- 👯 I’m looking to collaborate On any projects
+- 💬 Ask me about  computer networks.
+- 📫 How to reach me: 7003529970 , personal number dont share ✌️
+- 😄 Pronouns: call me he or him
+- ⚡ Fun fact: 
 
 ## Languages and Tools
 
@@ -20,9 +20,8 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession] with a keen int
 
 Here are some highlighted projects:
 
-1. [Project Name](Link) - Description
-2. [Project Name](Link) - Description
-3. [Project Name](Link) - Description
+1. [Weathering _with_you](https://github.com/modhack2003/weathering_with_you.git) - Description 2. [first_react](https://github.com/modhack2003/first_react.git) - Description
+
 
 ## Recent Activity
 
@@ -34,9 +33,9 @@ Check out what I've been up to recently:
 
 Let's connect and collaborate! You can reach me via:
 
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Profile)
-- [Email](Your Email Address)
-- [Personal Website/Blog](Your Website/Blog)
+- [LinkedIn](www.linkedin.com/in/bikram-dey-503975209)
+- [Twitter](https://twitter.com/Bikramdey2003)
+- [Email](bikram20031213@gmail.com)
+-[facebook](https://www.facebook.com/bikram.dey.94849)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Thanks for visiting! 😊
