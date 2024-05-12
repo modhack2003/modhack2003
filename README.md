@@ -25,7 +25,6 @@ Here are some highlighted projects:
 1. [Weathering _with_you](https://github.com/modhack2003/weathering_with_you.git) - Description 2. [first_react](https://github.com/modhack2003/first_react.git) - Description
 
 ## Languages and Tools
-
 - <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="20" height="20"/>
 - <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="20" height="20"/>
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/jquery.png" alt="jQuery" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="20" height="20"/>
@@ -34,7 +33,6 @@ Here are some highlighted projects:
 - <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="20" height="20"/>
 - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Microsoft Office" width="20" height="20"/>
 - <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="20" height="20"/>
-
 ## Recent Activity
 
 Check out what I've been up to recently:
