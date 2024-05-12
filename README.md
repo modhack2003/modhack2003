@@ -1,4 +1,4 @@
-![header](./images/git3.png)
+![header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 # Hi there, I'm bikram dey! 👋
 
