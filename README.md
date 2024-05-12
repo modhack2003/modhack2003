@@ -39,13 +39,15 @@ Check out what I've been up to recently:
 
 [Include recent GitHub activity. Example: ![Modhack's GitHub stats](https://github-readme-stats.vercel.app/api?username=modhack2003&show_icons=true&theme=radical)]
 
-## Connect with Me
 
-Let's connect and collaborate! You can reach me via:
+## Let's Connect and Collaborate!
 
--  <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/> [LinkedIn](www.linkedin.com/in/bikram-dey-503975209)
-- <img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="20" height="20"/> [Twitter](https://twitter.com/Bikramdey2003)
--  <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="20" height="20"/>[Email](bikram20031213@gmail.com)
--<img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" width="20" height="20"/>[facebook](https://www.facebook.com/bikram.dey.94849)
+You can reach me via:
+
+- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20"/> [LinkedIn](www.linkedin.com/in/bikram-dey-503975209)
+- <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="20" height="20"/> [Twitter](https://twitter.com/Bikramdey2003)
+- <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="20" height="20"/> [Email](mailto:bikram20031213@gmail.com)
+- <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="20" height="20"/> [Facebook](https://www.facebook.com/bikram.dey.94849)
+
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Thanks for visiting! 😊
