@@ -14,15 +14,13 @@ Welcome to my GitHub profile! I'm a passionate cyber security with a keen intere
 - 😄 Pronouns: call me he or him
 - ⚡ Fun fact: 
 
-## Languages and Tools
-
-[Include icons or badges for languages and tools you're proficient in. Example: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)]
 
 ## Projects
 
 Here are some highlighted projects:
 
-1. [Weathering _with_you](https://github.com/modhack2003/weathering_with_you.git) - Description 2. [first_react](https://github.com/modhack2003/first_react.git) - Description
+1. [Weathering _with_you](https://github.com/modhack2003/weathering_with_you.git) - This is a simple weather application that allows users to check the current weather conditions of a location. The app uses OpenWeatherMap API to fetch weather data.
+2. [first_react](https://github.com/modhack2003/first_react.git) - my first code on react .
 
 ## Languages and Tools
 - <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="20" height="20"/>
