@@ -36,7 +36,7 @@ Here are some highlighted projects:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Modhack2003&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## Let's Connect and Collaborate!
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Modhack2003&limit=5&theme=radical&combine_all_yearly_contributions=true
+![](https://github-contributor-stats.vercel.app/api?username=Modhack2003&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 You can reach me via:
 
@@ -49,5 +49,4 @@ You can reach me via:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Thanks for visiting! 😊
----
-[![](https://visitcount.itsvg.in/api?id=Modhack2003&icon=2&color=4)](https://visitcount.itsvg.in
+[![](https://visitcount.itsvg.in/api?id=Modhack2003&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
