@@ -32,6 +32,12 @@ Check out what I've been up to recently:
 
 ![Modhack's GitHub stats](https://github-readme-stats.vercel.app/api?username=modhack2003&show_icons=true&theme=radical)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Modhack2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Modhack2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Modhack2003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Modhack2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Let's Connect and Collaborate!
 
