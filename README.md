@@ -1,5 +1,8 @@
 ![header](https://mpolinowski.github.io/Personal/personal_assets/img/tools_banner.webp)
 
+
+[![](https://visitcount.itsvg.in/api?id=Modhack2003&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 # Hi there, I'm bikram dey! 👋
 
 Welcome to my GitHub profile! I'm a passionate cyber security with a keen interest in programing . Here you'll find a variety of projects and contributions related to my areas of expertise and personal interests.
@@ -49,4 +52,3 @@ You can reach me via:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Thanks for visiting! 😊
-[![](https://visitcount.itsvg.in/api?id=Modhack2003&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
