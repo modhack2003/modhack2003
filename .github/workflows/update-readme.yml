@@ -22,11 +22,9 @@ jobs:
 
       - name: Update README
         run: |
-          repos=$(echo '${{ steps.repos.outputs.data }}' | jq -r '.[] | select(.fork == false) | "- [\(.name)](\(.html_url)) — \(.description // "No description")"')
-          # Replace placeholder with repos
-          sed -i "/{{ recent_repos }}/{
-            s/{{ recent_repos }}/$repos/
-          }" README.md
+            repos=$(echo '${{ steps.repos.outputs.data }}' | jq -r '.[] | select(.fork == false) | "- [\(.name)](\(.html_url)) — \(.description // "No description")"' | head -n 5)
+            awk -v repos="$repos" '{gsub(/\{\{ recent_repos \}\}/, repos)}1' README.md > tmp && mv tmp README.md
+
 
       - name: Commit Changes
         run: |
