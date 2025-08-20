@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'   # runs every day at midnight UTC
   workflow_dispatch:       # allow manual runs
 
+permissions:
+  contents: write   # ✅ allow pushing to the repo
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -22,14 +25,18 @@ jobs:
 
       - name: Update README
         run: |
-            repos=$(echo '${{ steps.repos.outputs.data }}' | jq -r '.[] | select(.fork == false) | "- [\(.name)](\(.html_url)) — \(.description // "No description")"' | head -n 5)
-            awk -v repos="$repos" '{gsub(/\{\{ recent_repos \}\}/, repos)}1' README.md > tmp && mv tmp README.md
-
+          repos=$(echo '${{ steps.repos.outputs.data }}' \
+            | jq -r '.[] | select(.fork == false) | "- [\(.name)](\(.html_url)) — \(.description // "No description")"' \
+            | head -n 5)
+          
+          # Replace {{ recent_repos }} with the latest repos
+          awk -v repos="$repos" '{gsub(/\{\{ recent_repos \}\}/, repos)}1' README.md > tmp && mv tmp README.md
 
       - name: Commit Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update README with latest repos" || echo "No changes"
+          commit_message="Update README with latest repos ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"
+          git commit -m "$commit_message" || echo "No changes"
           git push
