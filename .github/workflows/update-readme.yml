@@ -2,8 +2,8 @@ name: Update README with Latest Repos
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *'   # runs every day at midnight UTC
+  workflow_dispatch:       # allow manual runs
 
 jobs:
   update-readme:
@@ -11,23 +11,27 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
-      - name: Fetch Public Repos
+
+      - name: Fetch Latest Repos
         id: repos
-        uses: octokit/request-action@v3
+        uses: octokit/request-action@v2.x
         with:
-          route: GET /users/modhack2003/repos
-          mediaType: '{"format":"json"}'
-      - name: Render Recent Repos Markdown
+          route: GET /users/modhack2003/repos?sort=updated&per_page=5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README
         run: |
-          echo "### Rendering newest repos..."
-          repos=$(echo "${{ steps.repos.outputs.data }}" | jq -r '.[] | select(.fork == false) | "\u2022 [\(.name)](\(.html_url)) — \(.description // "No description")"' | head -n 5)
-          echo "recent_repos<<EOF" >> README.md
-          echo "$repos" >> README.md
-          echo "EOF" >> README.md
-      - name: Commit if Changed
+          repos=$(echo '${{ steps.repos.outputs.data }}' | jq -r '.[] | select(.fork == false) | "- [\(.name)](\(.html_url)) — \(.description // "No description")"')
+          # Replace placeholder with repos
+          sed -i "/{{ recent_repos }}/{
+            s/{{ recent_repos }}/$repos/
+          }" README.md
+
+      - name: Commit Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet || git commit -m "Update README with latest repos"
+          git commit -m "Update README with latest repos" || echo "No changes"
           git push
