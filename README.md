@@ -1,58 +1,94 @@
-![header](https://mpolinowski.github.io/Personal/personal_assets/img/tools_banner.webp)
+<div align="center">
 
+# Bikram Dey
 
-[![](https://visitcount.itsvg.in/api?id=Modhack2003&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
+**Security Researcher · Bug Bounty Hunter · Security Tool Developer**
 
-# Hi there, I'm bikram dey! 👋
+Web & API security • Penetration testing • AI-assisted security automation
 
-Welcome to my GitHub profile! I'm a passionate cyber security with a keen interest in programing . Here you'll find a variety of projects and contributions related to my areas of expertise and personal interests.
+Kolkata, India
 
-## About Me
+[Portfolio](https://bikram-eight.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bikram-dey-700452997020031312/) · [Email](mailto:bikram20031213dey@gmail.com)
 
-- 🔭 I’m currently a students but finding part time  job also.
-- 🌱 I’m currently learning angular js , CEH.
-- 👯 I’m looking to collaborate On any projects
-- 💬 Ask me about  computer networks.
-- 📫 How to reach me: 7003529970  ✌️
-- 😄 Pronouns:  he or him
-- ⚡ Fun fact: I have a knack for picking up new skills quickly, just like a sponge absorbing water!
+</div>
 
+---
 
-## Projects
+## About me
 
-Here are some highlighted projects:
+I investigate web and API vulnerabilities and build tools that make security work easier to inspect, repeat, and document. My background spans web development, networking, competitive security challenges, and independent vulnerability research.
 
-- [modhack2003](https://github.com/modhack2003/modhack2003) — No description
-- [studio](https://github.com/modhack2003/studio) — No description
-- [PuKuli](https://github.com/modhack2003/PuKuli) — No description
-- [resume](https://github.com/modhack2003/resume) — No description
-- [Solana_CoinFlip_Game-](https://github.com/modhack2003/Solana_CoinFlip_Game-) — No description
+I work as an **independent security researcher and bug bounty hunter**, including participation on Bugcrowd. My long-term direction is penetration testing and red teaming, with an emphasis on understanding systems, producing clear evidence, and helping teams fix the underlying issue.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Alongside manual research, I explore custom AI agents and open-weight language models for security workflows. I treat reproducible evidence as the basis for a finding.
 
+**Open to junior penetration testing, VAPT, and security automation opportunities in Kolkata or remotely.**
 
+## Featured projects
 
+| Project | What I am building | Stack |
+| --- | --- | --- |
+| [**ESuite**](https://github.com/modhack2003/Esuite) | An Android web/API security workbench with scoped HTTP replay, separate test identities, browser inspection, encrypted evidence storage, and sanitized exports. | Kotlin · Android · HTTP · WebView |
+| [**Eliot Remastered**](https://github.com/modhack2003/Eliot_THE_AI) | An AI-assisted investigation workspace with browser and terminal clients, configurable model endpoints, coordinator/worker tasks, evidence tools, and resumable checkpoints. | Python · SQLite · AI agents |
+| [**AgentVerse**](https://github.com/modhack2003/agentverse) | A shared human/AI workspace for task coordination, team conversations, shared memory, and independent review workflows. | Python · Web dashboard · CLI |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Modhack2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Modhack2003&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Modhack2003&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Modhack2003&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Modhack2003&limit=5&theme=radical&combine_all_yearly_contributions=true)
-## Let's Connect and Collaborate!
+Each repository documents its current capabilities, setup instructions, and remaining limitations.
 
+## Responsible disclosure
 
-You can reach me via:
+**Ather Energy — validated medium-severity vulnerability**  
+Accepted **4 September 2026** through its Responsible Vulnerability Disclosure Program.
 
-- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20"/> [LinkedIn](www.linkedin.com/in/bikram-dey-503975209)
-- <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="20" height="20"/> [Twitter](https://twitter.com/Bikramdey2003)
-- <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="20" height="20"/> [Email](mailto:bikram20031213@gmail.com)
-- <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="20" height="20"/> [Facebook](https://www.facebook.com/bikram.dey.94849)
+Reported a PostgreSQL SQL injection issue in a web API, supplied reproducible evidence, and recommended parameterized queries and safer error handling.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+## CTF competitions and hackathons
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Thanks for visiting! 😊
+- **Cyber Quest 2026:** Team Byterixs placed **16th out of 100 teams**, achieving **10,000+ points** across web security and OSINT challenges.
+- **Hacker's Gambit 2025:** **33rd place**.
+- Additional participation: Indian Territorial Army CTF 2025, OPSWAT CIDX CTF 2026, and Ground Zero West Bengal Hackathon (ISOEH).
+
+## Skills and tools
+
+| Area | Focus |
+| --- | --- |
+| Application security | Web/API VAPT, SQL injection, XSS, IDOR/BOLA, authentication and authorization testing, vulnerability reporting |
+| Investigation | OSINT, network reconnaissance, CTF problem-solving |
+| Languages | Python, JavaScript, TypeScript, SQL, Bash, Kotlin, Arduino C/C++ |
+| Development | React, Next.js, Node.js, REST APIs, SQLite, MongoDB |
+| Tooling and platforms | Kali Linux, Nmap, Git/GitHub, Docker; AWS and Azure fundamentals |
+| Security automation | Agent Zero, custom AI agents, open-weight LLMs, evidence and reporting workflows |
+| Embedded projects | ESP32, Raspberry Pi Pico W, GPIO, relays, OLED/I2C displays |
+
+## Certifications and training
+
+| Credential | Issuer | Issued |
+| --- | --- | --- |
+| [Certified Ethical Hacker (CEH)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=ZCbw2bUWOHvDyTejtMOgTk15A8UWVFWSbHQNrTdntw8=) | EC-Council | Mar 2026 |
+| Certified Web Application Penetration Tester | IEMLabs UpSkill Academy | Jan 2026 |
+| [Ethical Hacker](https://www.credly.com/badges/0887bdd6-db39-4b48-a015-ded4096c42d4/linked_in_profile) | Cisco Networking Academy | Jun 2026 |
+
+<details>
+<summary>Additional training and certificates</summary>
+
+- **CCNA Routing and Switching training** — IEMLabs, Jan 2025.
+- **Full Stack Web Developer** — IEMLabs, Jul 2024.
+- **Certified Python Developer** — IEMLabs, Jan 2023.
+- **[Introduction to Cybersecurity](https://www.credly.com/badges/c1f729ec-6cc3-4fdd-9b81-fc6e034f6d8f)** — Cisco Networking Academy, Sep 2025.
+- **Web Development Bootcamp** — Microsoft, Jun 2024.
+
+</details>
+
+## Experience and education
+
+- **Independent Security Researcher / Bug Bounty Hunter** — Apr 2026–present.
+- **Web Developer**, Garden Reach Shipbuilders & Engineers Ltd. — Feb–Aug 2025.
+- **Project Manager**, Ricoz — Jun–Sep 2024.
+- **Diploma in Cybersecurity**, IEMLabs — 2023–2026.
+- **Bachelor of Arts**, West Bengal State University — 2021–2025.
+
+## Connect
+
+For security opportunities, project collaboration, or a conversation about my work:
+
+**[bikram20031213dey@gmail.com](mailto:bikram20031213dey@gmail.com)**  
+[LinkedIn](https://www.linkedin.com/in/bikram-dey-700452997020031312/) · [Portfolio](https://bikram-eight.vercel.app/) · [Repositories](https://github.com/modhack2003?tab=repositories)
